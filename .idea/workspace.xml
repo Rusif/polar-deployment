@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f42793c-c838-4653-a092-821a2068c33b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/polar-deployment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/production-stage.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/production-stage.yml" afterDir="false" />
-    </list>
+    <list default="true" id="2f42793c-c838-4653-a092-821a2068c33b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,11 +31,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/kubernetes/production" />
       <recent name="$PROJECT_DIR$/kubernetes/applications/catalog-service/staging" />
       <recent name="$PROJECT_DIR$/kubernetes/services" />
       <recent name="$PROJECT_DIR$/docker/keycloak" />
-      <recent name="$PROJECT_DIR$/kubernetes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docker/observability/grafana/datasources" />
